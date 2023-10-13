@@ -11,4 +11,4 @@ cv2.circle(img,(400,50),30,(255,255,0),3)
 cv2.putText(img,"OpenCV",(300,200),cv2.FONT_HERSHEY_COMPLEX,1,(0,255,0),1)
 
 cv2.imshow("Image",img)
-cv2.waitKey(0)
+cv2.waitKey(0) 
